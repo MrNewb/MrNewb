@@ -21,4 +21,5 @@ Love my scripts? Support me by buying a coffee on Ko-fi! \
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R76BIM9)
 
 ## Connect
-![Discord Banner 2](https://discordapp.com/api/guilds/1204398264812830720/widget.png?style=banner2)
+<a href='https://discord.gg/Z2XvGQ9eBR'>![Discord Banner 2](https://discordapp.com/api/guilds/1204398264812830720/widget.png?style=banner2)</a>
+
