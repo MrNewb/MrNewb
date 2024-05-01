@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MrNewb/MrNewb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# MrNewb:
+- 🔑 I’m currently working on vehicle keys
+
+## Support MrNewb
+Love my scripts? Support me by buying a coffee on Ko-fi! [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R76BIM9)
+
+## Connect
+Join MrNewb's Discord server [here](https://discord.gg/BUUyJeq9kP) to engage with him and the community!
