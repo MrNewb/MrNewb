@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 ## Support Me And My Cats
 
-Love my scripts? \
-Support me by buying a coffee on Ko-fi! \
 \
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R76BIM9)
 
