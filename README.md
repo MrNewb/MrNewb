@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - 🔑 I’m currently working on vehicle keys
 
 ## Support MrNewb
-Love my scripts? Support me by buying a coffee on Ko-fi! [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R76BIM9)
+Love my scripts? Support me by buying a coffee on Ko-fi!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R76BIM9)
 
 ## Connect
 Join my Discord server [here](https://discord.gg/BUUyJeq9kP) to engage with him and the community!
