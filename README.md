@@ -21,4 +21,4 @@ Love my scripts? Support me by buying a coffee on Ko-fi! \
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R76BIM9)
 
 ## Connect
-<a href='https://discord.gg/BUUyJeq9kP'>![Discord Banner 2](https://discordapp.com/api/guilds/1204398264812830720/widget.png?style=banner3)</a>
+<iframe src="https://discord.com/widget?id=1204398264812830720&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
