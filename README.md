@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 Love my scripts? Support me by buying a coffee on Ko-fi! [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R76BIM9)
 
 ## Connect
-Join MrNewb's Discord server [here](https://discord.gg/BUUyJeq9kP) to engage with him and the community!
+Join my Discord server [here](https://discord.gg/BUUyJeq9kP) to engage with him and the community!
