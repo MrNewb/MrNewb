@@ -21,5 +21,4 @@ Love my scripts? Support me by buying a coffee on Ko-fi! \
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R76BIM9)
 
 ## Connect
-Join my Discord server [here](https://discord.gg/BUUyJeq9kP) to engage with me and the community!
 ![Discord Banner 2](https://discordapp.com/api/guilds/1204398264812830720/widget.png?style=banner2)
