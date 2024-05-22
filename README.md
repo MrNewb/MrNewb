@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # MrNewb:
-- 🔑 I’m currently working on vehicle keys
+- ⚡ Fun fact: The name “GitHub” originates from the term “git” – a popular open-source version control system created by Linus Torvalds.
 
 ## Support Me And My Cats
 
