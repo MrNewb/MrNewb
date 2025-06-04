@@ -2,11 +2,7 @@
 
 > 🎯 **Passionate Developer** creating quality **FiveM scripts** and helpful tools for the GTA V roleplay community worldwide.
 
-![GitHub followers](https://img.shields.io/github/followers/MrNewb?label=Follow&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/MrNewb?label=Stars&style=social)  
-![Profile views](https://komarev.com/ghpvc/?username=MrNewb&label=Profile%20Views&color=0e75b6&style=flat)  
-[![Ko-fi](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-lightgrey?style=flat-square&logo=ko-fi)](https://ko-fi.com/R5R76BIM9)  
-[![Discord](https://img.shields.io/discord/1204398264812830720?label=Discord&logo=discord&color=7289DA)](https://discord.gg/mrnewbscripts)
+![GitHub followers](https://img.shields.io/github/followers/MrNewb?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/MrNewb?label=Stars&style=social) ![Profile views](https://komarev.com/ghpvc/?username=MrNewb&label=Profile%20Views&color=0e75b6&style=flat) [![Ko-fi](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-lightgrey?style=flat-square&logo=ko-fi)](https://ko-fi.com/R5R76BIM9) [![Discord](https://img.shields.io/discord/1204398264812830720?label=Discord&logo=discord&color=7289DA)](https://discord.gg/mrnewbscripts)
 ---
 
 ## 🌟 About MrNewb
