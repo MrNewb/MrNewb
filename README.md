@@ -9,18 +9,26 @@
 
 **MrNewb** is a dedicated FiveM script developer creating **reliable, well-optimized scripts** for the GTA V roleplay community. With 3+ years of experience, I specialize in **multi-framework compatibility** (ESX, QBCore, Qbox).
 
-### Core Development Principles:
+<details>
+<summary><strong>⚙️ Core Development Principles</strong></summary>
+
 - ⚡ **Performance Focused** - Optimized code for server efficiency
 - 🌍 **Multi-Framework Support** - ESX, QBCore, Qbox compatibility
 - 📚 **Comprehensive Documentation** - Detailed setup guides
 - 🔄 **Regular Updates** - Continuous improvements
 
-### 🏆 Portfolio Highlights
+</details>
+
+<details>
+<summary><strong>🏆 Portfolio Highlights</strong></summary>
+
 - **16 Public Repositories** with 185+ combined stars
 - **84 GitHub Followers** and growing developer network
 - **Hundreds of servers** worldwide using MrNewb scripts
 - **Active Development** with consistent commits throughout 2024-2025
 - **Multi-language support** for international communities
+
+</details>
 
 ---
 
