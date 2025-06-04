@@ -21,15 +21,16 @@
 
 ### 🏆 Portfolio Highlights
 - **16 Public Repositories** with 185+ combined stars
+- **84 GitHub Followers** and growing developer network
 - **Hundreds of servers** worldwide using MrNewb scripts
-- **Arctic Code Vault Contributor** status
+- **Active Development** with consistent commits throughout 2024-2025
 - **Multi-language support** for international communities
 
 ---
 
 ## 🔥 Featured Projects & Scripts
 
-### 🚗 VehicleKeys - Advanced Vehicle Management System
+### 🚗 [VehicleKeys - Advanced Vehicle Management System](https://mrnewbscripts.tebex.io/package/6254556)
 **Comprehensive FiveM vehicle key system** with modern React-based keyfob interface:
 - Interactive lockpicking mini-games and valet services
 - Multi-framework compatibility (ESX, QBCore, Qbox)
@@ -55,22 +56,6 @@
 
 ---
 
-## 📈 Stats & Recognition
-
-### 🏆 GitHub Metrics
-- **16 Public Repositories** with active development and maintenance
-- **185+ Total Stars** across all projects demonstrating community appreciation
-- **84 GitHub Followers** and steadily growing developer network
-- **Arctic Code Vault Contributor** - Code preserved in GitHub's Arctic Code Vault
-- **Active Development** with consistent commits throughout 2024-2025
-- **Pull Shark Achievement** for meaningful open-source contributions
-
-### 🌍 Community Impact
-- **Hundreds of FiveM servers** utilizing MrNewb scripts worldwide
-- **Thousands of players** experiencing improved roleplay through our systems
-- **Multi-language support** serving international FiveM communities
-- **Regular feature updates** based on community feedback and requests
-
 ### 🎯 Popular GitHub Repositories
 - **[MrNewbCustomPlates](https://github.com/MrNewb/MrNewbCustomPlates)** (43 ⭐) - Most popular license plate system
 - **[MrNewbNameChanger](https://github.com/MrNewb/MrNewbNameChanger)** (28 ⭐) - Name updates without relog
@@ -90,12 +75,18 @@
 
 ---
 
-## 🔍 SEO Keywords & Expertise
+## 🔍 SEO Keywords
 
-**FiveM Development:** Script development • Lua programming • GTA V roleplay • Custom resources • Multi-framework compatibility • ESX QBCore Qbox integration • Performance optimization • Modern UI development
+**FiveM Scripts:** FiveM scripts • FiveM resources • FiveM development • FiveM server scripts • Custom FiveM scripts • Professional FiveM scripts • FiveM script developer • FiveM lua scripts • Best FiveM scripts • Premium FiveM scripts • Quality FiveM scripts • Reliable FiveM scripts
 
-**Specialized Systems:** Vehicle management • Key systems • Inventory integration • License plates • Weapon customization • Phone tracking • Name utilities • Framework bridges • Roleplay enhancement
+**GTA V Roleplay:** GTA V roleplay • GTA RP scripts • Roleplay server scripts • RP server resources • GTA roleplay mods • FiveM roleplay • Roleplay enhancement • RP quality scripts • Immersive roleplay • Professional roleplay scripts
 
-**Technical Stack:** Lua scripting • JavaScript TypeScript • React development • Vite build tools • Database design • Client-server optimization • Git version control • Open source development • Community Bridge framework
+**Framework Scripts:** ESX scripts • QBCore scripts • Qbox scripts • Multi-framework scripts • ESX resources • QBCore resources • Framework compatibility • Universal FiveM scripts • Cross-framework development • ESX QBCore Qbox • Framework integration • Legacy framework support
 
-**Popular Tags:** `fivem` `lua` `gta5` `roleplay` `esx` `qbcore` `qbox` `vehicle-system` `key-management` `typescript` `react` `open-source` `multi-framework` `performance-optimization`
+**Vehicle Systems:** FiveM vehicle scripts • Vehicle key system • Car keys FiveM • Vehicle management FiveM • Vehicle locks • Keyfob system • Vehicle security scripts • Car management • Proximity locking • Vehicle targeting • Auto lockpicking • Automotive scripts
+
+**Inventory Systems:** ox_inventory scripts • qb-inventory compatibility • es_extended inventory • Item-based systems • Inventory integration • FiveM items • Usable items • Custom items • Item management scripts
+
+**Technical Development:** Lua programming • Lua scripting • JavaScript FiveM • TypeScript FiveM • React FiveM • Modern UI FiveM • Database integration • Client-server optimization • Performance optimization • FiveM NUI • Web development • stack FiveM
+
+**Search Tags:** `fivem-scripts` `lua-programming` `gta5-roleplay` `esx-scripts` `qbcore-scripts` `qbox-scripts` `vehicle-management` `key-system` `vehicle-keys` `fivem-resources` `roleplay-scripts` `server-optimization` `multi-framework` `typescript-react` `open-source-fivem` `performance-optimization` `fivem-development` `lua-scripts` `gta-rp` `fivem-vehicle` `custom-scripts` `professional-fivem` `premium-scripts` `quality-scripts` `reliable-scripts` `modern-fivem` `advanced-scripts`
