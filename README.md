@@ -1,4 +1,4 @@
-# 🚀 MrNewb - FiveM Script Developer & Community Builder
+# 🚀 MrNewb - FiveM Script Developer
 
 > 🎯 **Passionate Developer** creating quality **FiveM scripts** and helpful tools for the GTA V roleplay community worldwide.
 
