@@ -7,7 +7,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=MrNewb&label=Profile%20Views&color=0e75b6&style=flat)  
 [![Ko-fi](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-lightgrey?style=flat-square&logo=ko-fi)](https://ko-fi.com/R5R76BIM9)  
 [![Discord](https://img.shields.io/discord/1204398264812830720?label=Discord&logo=discord&color=7289DA)](https://discord.gg/mrnewbscripts)
-
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R76BIM9)
 ---
 
 ## 🌟 About MrNewb
@@ -37,7 +37,7 @@
 - Proximity-based locking with targeting system integration
 - TypeScript-powered web interface with autopilot functionality
 
-### 🌉 Community Bridge - Integration Framework
+### 🌉 [Community Bridge - Integration Bridge](https://github.com/The-Order-Of-The-Sacred-Framework/community_bridge)
 **Open-source GPLv3 bridge** simplifying FiveM development:
 - Universal compatibility layer for major frameworks
 - Inventory system integration (ox_inventory, qb-inventory)
@@ -52,18 +52,6 @@
 - **[MrNewbPosters](https://github.com/MrNewb/MrNewbPosters)** (13 ⭐) - Dynamic poster management
 
 ---
-
-## 📞 Community & Support
-
-### 💰 Premium Scripts & Support
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R76BIM9)
-
-### 🛒 [Premium Script Collection - Tebex Store](https://mrnewbscripts.tebex.io/)
-Professional FiveM scripts with exclusive features:
-- ✅ **Quality Assured** - Rigorously tested for production servers
-- 🚀 **Priority Support** - Direct developer assistance
-- 📦 **Instant Download** - Immediate access after purchase
-- 🔄 **Regular Updates** - Continuous improvements and new features
 
 ### 🏠 Discord Community
 [![Discord](https://discordapp.com/api/guilds/1204398264812830720/widget.png?style=banner2)](https://discord.gg/mrnewbscripts)
@@ -81,18 +69,6 @@ Professional FiveM scripts with exclusive features:
 
 ---
 
-## 🔍 SEO Keywords & Expertise
-
-**FiveM Development:** Script development • Lua programming • GTA V roleplay • Custom resources • Multi-framework compatibility • ESX QBCore Qbox integration • Performance optimization • Modern UI development
-
-**Specialized Systems:** Vehicle management • Key systems • Inventory integration • License plates • Weapon customization • Phone tracking • Name utilities • Framework bridges • Roleplay enhancement
-
-**Technical Stack:** Lua scripting • JavaScript TypeScript • React development • Vite build tools • Database design • Client-server optimization • Git version control • Open source development • Community Bridge framework
-
-**Popular Tags:** `fivem` `lua` `gta5` `roleplay` `esx` `qbcore` `qbox` `vehicle-system` `key-management` `typescript` `react` `open-source` `multi-framework` `performance-optimization`
-
----
-
 ## 📈 Stats & Recognition
 
 ### 🏆 GitHub Metrics
@@ -107,8 +83,19 @@ Professional FiveM scripts with exclusive features:
 - **Hundreds of FiveM servers** utilizing MrNewb scripts worldwide
 - **Thousands of players** experiencing improved roleplay through our systems
 - **Multi-language support** serving international FiveM communities
-- **24/7 Community support** through Discord channels
 - **Regular feature updates** based on community feedback and requests
+
+---
+
+## 🔍 SEO Keywords & Expertise
+
+**FiveM Development:** Script development • Lua programming • GTA V roleplay • Custom resources • Multi-framework compatibility • ESX QBCore Qbox integration • Performance optimization • Modern UI development
+
+**Specialized Systems:** Vehicle management • Key systems • Inventory integration • License plates • Weapon customization • Phone tracking • Name utilities • Framework bridges • Roleplay enhancement
+
+**Technical Stack:** Lua scripting • JavaScript TypeScript • React development • Vite build tools • Database design • Client-server optimization • Git version control • Open source development • Community Bridge framework
+
+**Popular Tags:** `fivem` `lua` `gta5` `roleplay` `esx` `qbcore` `qbox` `vehicle-system` `key-management` `typescript` `react` `open-source` `multi-framework` `performance-optimization`
 
 ---
 
