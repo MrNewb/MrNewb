@@ -44,8 +44,9 @@
 ### 🌉 [Community Bridge - Integration Bridge](https://github.com/The-Order-Of-The-Sacred-Framework/community_bridge)
 **Open-source GPLv3 bridge** simplifying FiveM development:
 - Universal compatibility layer for major frameworks
+- Inventory system integration (ox_inventory, qb-inventory)
 - Reduces development time by 70% with single codebase
-- Growing community of active developers
+- Growing community of 100+ active developers
 
 ---
 
@@ -59,12 +60,16 @@
 
 ---
 
-### 🎯 Popular GitHub Repositories
+<details>
+<summary><strong>🎯 Popular GitHub Repositories</strong></summary>
+
 - **[MrNewbCustomPlates](https://github.com/MrNewb/MrNewbCustomPlates)** (43 ⭐) - Most popular license plate system
 - **[MrNewbNameChanger](https://github.com/MrNewb/MrNewbNameChanger)** (28 ⭐) - Name updates without relog
 - **[MrNewbWeaponTints](https://github.com/MrNewb/MrNewbWeaponTints)** (26 ⭐) - Weapon customization system
 - **[MrNewbPhoneTracker](https://github.com/MrNewb/MrNewbPhoneTracker)** (18 ⭐) - Phone tracking solution
 - **[MrNewbPosters](https://github.com/MrNewb/MrNewbPosters)** (13 ⭐) - Dynamic poster management
+
+</details>
 
 ---
 
@@ -92,4 +97,4 @@
 
 **Technical Development:** Lua programming • Lua scripting • JavaScript FiveM • TypeScript FiveM • React FiveM • Modern UI FiveM • Database integration • Client-server optimization • Performance optimization • FiveM NUI • Web development • stack FiveM
 
-**Search Tags:** `fivem-scripts` `lua-programming` `gta5-roleplay` `esx-scripts` `qbcore-scripts` `qbox-scripts` `vehicle-management` `key-system` `vehicle-keys` `fivem-resources` `roleplay-scripts` `server-optimization` `multi-framework` `typescript-react` `open-source-fivem` `performance-optimization` `fivem-development` `lua-scripts` `gta-rp` `fivem-vehicle` `custom-scripts` `professional-fivem` `premium-scripts` `quality-scripts` `reliable-scripts` `modern-fivem` `advanced-scripts`
+**Search Tags:** `fivem-scripts` `lua-programming` `gta5-roleplay` `esx-scripts` `qbcore-scripts` `qbox-scripts` `vehicle-management` `key-system` `vehicle-keys` `fivem-resources` `roleplay-scripts` `server-optimization` `multi-framework` `typescript-react` `open-source-fivem` `performance-optimization` `fivem-development` `lua-scripts` `gta-rp` `fivem-vehicle` `custom-scripts` `professional-fivem` `premium-scripts` `quality-scripts` `reliable-scripts` `modern-fivem` `advanced-scripts` `community_bridge` `free` `unescrowed` `qbx` `qbox` `qb` `qb-core`
