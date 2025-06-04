@@ -79,10 +79,6 @@
 
 ---
 
-*Ready to enhance your FiveM server with quality scripts? Let's build something great together!*
-
----
-
 <details>
 <summary><strong>SEO Keywords</strong></summary>
 
