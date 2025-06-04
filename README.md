@@ -1,11 +1,11 @@
-# <img src="https://fonts.gstatic.com/s/i/materialicons/rocket_launch/v1/24px.svg" alt="rocket" width="24" height="24"> MrNewb - FiveM Script Developer
+# <img src="https://fonts.gstatic.com/s/i/materialicons/rocket_launch/v1/24px.svg" alt="rocket" width="24" height="24" style="filter: hue-rotate(25deg) saturate(2) brightness(1.2);"> MrNewb - FiveM Script Developer
 
 > <img src="https://fonts.gstatic.com/s/i/materialicons/my_location/v1/24px.svg" alt="target" width="20" height="20"> **Passionate Developer** creating quality **FiveM scripts** and helpful tools for the GTA V roleplay community worldwide.
 
 ![GitHub followers](https://img.shields.io/github/followers/MrNewb?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/MrNewb?label=Stars&style=social) ![Profile views](https://komarev.com/ghpvc/?username=MrNewb&label=Profile%20Views&color=0e75b6&style=flat) [![Ko-fi](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-lightgrey?style=flat-square&logo=ko-fi)](https://ko-fi.com/R5R76BIM9) [![Discord](https://img.shields.io/discord/1204398264812830720?label=Discord&logo=discord&color=7289DA)](https://discord.gg/mrnewbscripts)
 ---
 
-## <img src="https://fonts.gstatic.com/s/i/materialicons/star/v1/24px.svg" alt="star" width="20" height="20"> About MrNewb
+## <img src="https://fonts.gstatic.com/s/i/materialicons/star/v1/24px.svg" alt="star" width="20" height="20" style="filter: hue-rotate(25deg) saturate(2) brightness(1.2);"> About MrNewb
 
 **MrNewb** is a dedicated FiveM script developer creating **reliable, well-optimized scripts** for the GTA V roleplay community. With 3+ years of experience, I specialize in **multi-framework compatibility** (ESX, QBCore, Qbox).
 
@@ -32,9 +32,9 @@
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/i/materialicons/local_fire_department/v1/24px.svg" alt="fire" width="20" height="20"> Featured Projects & Scripts
+## <img src="https://fonts.gstatic.com/s/i/materialicons/local_fire_department/v1/24px.svg" alt="fire" width="20" height="20" style="filter: hue-rotate(25deg) saturate(2) brightness(1.2);"> Featured Projects & Scripts
 
-### <img src="https://fonts.gstatic.com/s/i/materialicons/directions_car/v1/24px.svg" alt="car" width="18" height="18"> [VehicleKeys - Advanced Vehicle Management System](https://mrnewbscripts.tebex.io/package/6254556)
+### <img src="https://fonts.gstatic.com/s/i/materialicons/directions_car/v1/24px.svg" alt="car" width="18" height="18" style="filter: hue-rotate(25deg) saturate(2) brightness(1.2);"> [VehicleKeys - Advanced Vehicle Management System](https://mrnewbscripts.tebex.io/package/6254556)
 **Comprehensive FiveM vehicle key system** with modern React-based keyfob interface:
 - Interactive lockpicking mini-games and valet services
 - Multi-framework compatibility (ESX, QBCore, Qbox)
@@ -73,7 +73,7 @@
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/i/materialicons/lightbulb/v1/24px.svg" alt="lightbulb" width="20" height="20"> Fun Development Fact
+## <img src="https://fonts.gstatic.com/s/i/materialicons/lightbulb/v1/24px.svg" alt="lightbulb" width="20" height="20" style="filter: hue-rotate(25deg) saturate(2) brightness(1.2);"> Fun Development Fact
 
 > **Did you know?** The name “GitHub” originates from the term “git” – a popular open-source version control system created by Linus Torvalds.
 
