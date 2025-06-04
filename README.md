@@ -19,7 +19,7 @@ I’m passionate about developer tooling, system design, and making complex feat
 
 ## 🔭 What I’m Working On
 
-- 🚗 **VehicleKeys** – Custom keyfob system with lockpick, valet, stash, and autopilot support  
+- 🚗 **VehicleKeys** – Custom keyfob system with lockpick, valet, and autopilot support  
 - 🐝 **Beekeeping System** – Unique gameplay loop with hive management, honey production, and economy integration  
 - 🧰 **MrNewbsWeaponTints** – Now supporting MK2s, localization, and version checking  
 - 📦 **MrNewbGiftBox** – Reward system using `community_bridge` with full callback support
