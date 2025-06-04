@@ -34,12 +34,12 @@
 
 ## Featured Projects & Scripts
 
-### [VehicleKeys - Advanced Vehicle Management System](https://mrnewbscripts.tebex.io/package/6254556)
+### [VehicleKeys - Advanced Vehicle Key Management System](https://mrnewbscripts.tebex.io/package/6254556)
 **Comprehensive FiveM vehicle key system** with modern React-based keyfob interface:
 - Interactive lockpicking mini-games and valet services
 - Multi-framework compatibility (ESX, QBCore, Qbox)
 - Proximity-based locking with targeting system integration
-- TypeScript-powered web interface with autopilot functionality
+- TypeScript-powered web interface with autopilot functionality and more
 
 ### [Community Bridge - Integration Bridge](https://github.com/The-Order-Of-The-Sacred-Framework/community_bridge)
 **Open-source GPLv3 bridge** simplifying FiveM development:
