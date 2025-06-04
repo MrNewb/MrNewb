@@ -44,9 +44,8 @@
 ### 🌉 [Community Bridge - Integration Bridge](https://github.com/The-Order-Of-The-Sacred-Framework/community_bridge)
 **Open-source GPLv3 bridge** simplifying FiveM development:
 - Universal compatibility layer for major frameworks
-- Inventory system integration (ox_inventory, qb-inventory)
 - Reduces development time by 70% with single codebase
-- Growing community of 100+ active developers
+- Growing community of active developers
 
 ---
 
