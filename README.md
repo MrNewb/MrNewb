@@ -41,7 +41,7 @@
 - Proximity-based locking with targeting system integration
 - TypeScript-powered web interface with autopilot functionality and more
 
-### [Community Bridge - Integration Bridge](https://github.com/The-Order-Of-The-Sacred-Framework/community_bridge)
+### [Community Bridge - Integration Bridge](https://github.com/TheOrderFivem/community_bridge/tree/main)
 **Open-source GPLv3 bridge** simplifying FiveM development:
 - Universal compatibility layer for major frameworks
 - Inventory system integration (ox_inventory, qb-inventory)
